@@ -5,8 +5,6 @@
 - 📔 I'm in my junior year
 - 🕹 I enjoying delicious food and games
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Fretory&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+[![Fretory's github stats](https://github-readme-stats.vercel.app/api?username=Fretory&theme=dark)](https://www.fretory.cn)
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fretory&layout=compact&theme=material-palenight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fretory&theme=dark)](https://www.fretory.cn)
